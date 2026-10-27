@@ -1,5 +1,5 @@
 # REQUERIMIENTO---SERVICIOS-GENERALES-MEDICOS
-Requerimientos generales para un servicio medico (Problema academico)
+==Requerimientos generales para un servicio medico (Problema academico)==
 
 ㅤ
 ㅤ
@@ -10,5 +10,5 @@ Requerimientos generales para un servicio medico (Problema academico)
 ㅤ
 ㅤ
 
-Mision y Vision:
+==Mision y Vision:==
 <img width="921" height="448" alt="image" src="https://github.com/user-attachments/assets/90fee26b-4e71-4f35-800d-ffffb1db88ef" />
